@@ -18,12 +18,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Screenshot of Final Product](./screenshot.png)
+![Screenshot](screenshot.png)
 
 ### Links
 
-- Solution URL: Solution is [here](https://github.com/kbasey/QR-code).
-- Live Site URL: Live Preview is [here](https://kbasey.github.io/QR-code/).
+- Solution URL: [Click Here](https://github.com/kbasey/QR-code).
+- Live Site URL: [Click Here](https://kbasey.github.io/QR-code/).
 
 ## My process
 
