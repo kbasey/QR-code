@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Click Here](https://github.com/kbasey/QR-code).
-- Live Site URL: [Click Here](https://kbasey.github.io/QR-code/).
+- Solution URL: [GitHub](https://github.com/kbasey/QR-code).
+- Live Site URL: [Netlify](https://magenta-semolina-b3b121.netlify.app).
 
 ## My process
 
@@ -52,7 +52,7 @@ yourself when you look back on this project in the future.**
 ## Author
 
 - Website - [Kieera Basey](https://github.com/kbasey)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/kbasey)
+- Frontend Mentor - [@kbasey](https://www.frontendmentor.io/profile/kbasey)
 
 
 ## Acknowledgments
